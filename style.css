@@ -12,7 +12,7 @@ body {
     text-align: center; /* Центрируем текст внутри блока */
     border: 2px solid #000; /* Добавляем рамку */
     padding: 30px; /* Добавляем отступы внутри блока */
-    background-color: #f9f9f9; /* Цвет фона блока */
+    background-color: #82b5e8; /* Цвет фона блока */
 }
 
 .section img {
@@ -25,7 +25,7 @@ body {
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #eaeaea;
+    background-color: #82b5e8;
     position: relative;
     overflow: hidden;
     flex-direction: column; /* Располагаем элементы в колонку */
@@ -51,7 +51,7 @@ h2:hover{
 }
 
 .editable:hover {
-    background-color: #d1d1d1;
+    background-color: #82b5e8;
 }
 
 }  
